@@ -1,8 +1,8 @@
-# Backend Developer in Japan👋
-### Just 20 years old 
-### Feel free to contact me anytime!👍
+# Web app developer in Japan👋
+### Just 15 years old 
+### Please feel free to contact me anytime!👍
 #
-![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Foo_name&show_icons=true&theme=vue-dark)
+![aaaaaaa](https://github-readme-stats.vercel.app/api?username=Foo_name&show_icons=true&theme=vue-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Foo_name&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
