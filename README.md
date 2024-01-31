@@ -1,21 +1,40 @@
-# Hey there! 👋
+# Hi, I'm web apps Developer in Japan👋
 
-I'm Tacopic, a 15-year-old Backend Developer in Japan. Feel free to contact me anytime! 👍
+I'm tacopic007, a 15-year-old web apps Developer in Japan. Feel free to contact me anytime! 👍
 
 ![Tacopic's GitHub stats](https://github-readme-stats.vercel.app/api?username=tacopic-007&show_icons=true&theme=vue-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tacopic-007&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+## Available langages 🚀
 
-## NOW TRAINING 🚀
-
-- React
-- Next.js
-- TypeScript
+- Html5, Haml
+- CSS3, SASS, SCSS
+- Javascript
+ - React.js
+  - Next.js
+  - Nest.js
+ - Node.js
+  - Discord.js
+ - npm, npx
+- Typescript
+- Google Apps Script
+- Java
+- Python
+ - pip
+  - Discord.py
 - MySQL
-- Laravel
-- Docker
-- Visual Studio Code
-- GitHub
+- SQLite3
+- Arduino
+
+## Development tools available ✨
+- Github
+- VSCode
+- Sublime text
+- Atom
+- Arduino IDE
+- Qiita
+- Google Bard
+- Chat-gpt
+- API tool
 
 ## Contact & Socials 📬
 
@@ -24,12 +43,9 @@ I'm Tacopic, a 15-year-old Backend Developer in Japan. Feel free to contact me a
 
 ## Skills & Tools 🛠️
 
-![Skills & Tools](https://skillicons.dev/icons?i=html,css,js,typescript,firebase,react,vue,next,sqlite,mysql,github,vscode,docker,laravel,cakephp,discord,php,gitlab,jquery,aws,vite)
+![Skills & Tools](https://skillicons.dev/icons?i=html,css,js,typescript,java,python,php,mysql,sqlite,jquery,node,react,next,github,vscode,sublime-text,aws)
 
-**Additional Skills and Tools:**
-Codeigniter, Virtual Box, CakePHP, CircleCI, and more.
-
-## Fun Facts ✨
+## Other ✨
 
 - Blog: [Check out my blog](https://blog.tacopic002.com/)
 - Currently working at [Fulxcore Technologies](https://fulxcore-technologies.com/)
