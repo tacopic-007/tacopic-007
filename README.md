@@ -43,7 +43,7 @@ I'm tacopic007, a 15-year-old web apps Developer in Japan. Feel free to contact 
 
 ## Skills & Tools 🛠️
 
-![Skills & Tools](https://skillicons.dev/icons?i=html,css,js,typescript,java,python,php,mysql,sqlite,jquery,node,react,next,github,vscode,sublime-text,aws)
+![Skills & Tools](https://skillicons.dev/icons?i=html,css,js,typescript,java,python,php,mysql,sqlite,jquery,react,next,github,vscode,aws)
 
 ## Other ✨
 
